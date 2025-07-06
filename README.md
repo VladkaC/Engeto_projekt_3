@@ -1,7 +1,3 @@
-pip freeze > requiremnts.txt
-venv\Scripts\activate
-.\venv\Scripts\activate.ps1
-
 # Scraper volebních výsledků
 
 Tento skript je navržen pro získávání volebních výsledků pro jednotlivé obce z oficiální české volební stránky [volby.cz](https://www.volby.cz). Skript načítá data jako počet registrovaných voličů, přijaté obálky, platné hlasy a hlasy pro jednotlivé strany v různých obcích a ukládá je do CSV souboru.
