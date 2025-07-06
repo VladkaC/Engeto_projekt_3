@@ -165,5 +165,3 @@ if __name__ == "__main__":
 
     main(region_url, output_file)
 
-
-#  python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" "results_prostejov.csv"
